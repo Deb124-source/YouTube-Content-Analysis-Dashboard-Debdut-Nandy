@@ -91,16 +91,6 @@ YouTube-Content-Analysis/
 
 ---
 
-## Dashboard Preview
-
-*(Add your dashboard screenshot here)*
-
-```markdown
-![Dashboard Preview](Screenshot.png)
-```
-
----
-
 ## Future Enhancements
 
 * Sentiment analysis of video comments
